@@ -1,9 +1,7 @@
-
-const a= "Sarvesh"
+const a = "Sarvesh";
 console.log(a);
-console.log('This may create conflict');
+console.log("This may create conflict");
 
-const av= "Sarvesh Bachute and  I am good boy"
+const av = "Sarvesh Bachute and  I am good boy";
 console.log(a);
-const c= 45
-
+const c = 45;
